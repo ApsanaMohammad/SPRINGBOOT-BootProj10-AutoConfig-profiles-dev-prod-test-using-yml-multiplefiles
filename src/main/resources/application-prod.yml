@@ -1,0 +1,18 @@
+org:
+  nit:
+    name: Prod Company
+    type: Production Services
+    location: Production City
+    employees: 500
+    revenue: 150.75
+    phone-numbers:
+      - 5555555555
+      - 6666666666
+    members:
+      - Prod John
+      - Prod Jane
+      - Prod Doe
+    company-details:
+      headquarters: Prod City
+      founded: 2005
+      ceo: Prod CEO

@@ -1,0 +1,18 @@
+org:
+  nit:
+    name: Test Company
+    type: Testing Services
+    location: Testing City
+    employees: 150
+    revenue: 70.5
+    phone-numbers:
+      - 3333333333
+      - 4444444444
+    members:
+      - Test John
+      - Test Jane
+      - Test Doe
+    company-details:
+      headquarters: Test City
+      founded: 2015
+      ceo: Test CEO

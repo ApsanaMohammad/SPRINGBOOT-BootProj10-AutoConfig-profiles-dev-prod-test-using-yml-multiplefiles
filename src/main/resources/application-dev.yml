@@ -1,0 +1,18 @@
+org:
+  nit:
+    name: Dev Company
+    type: Development Services
+    location: Development City
+    employees: 100
+    revenue: 50.5
+    phone-numbers:
+      - 1111111111
+      - 2222222222
+    members:
+      - Dev John
+      - Dev Jane
+      - Dev Doe
+    company-details:
+      headquarters: Dev City
+      founded: 2010
+      ceo: Dev CEO
